@@ -1,4 +1,4 @@
-# Sample Website
+# Sample Website. Version 1.0
 
 This is a sample website made as part of [*Learn Enough™ Git to Be
 Dangerous*](https://www.learnenough.com/git-tutorial), possibly the greatest
